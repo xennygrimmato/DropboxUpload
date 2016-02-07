@@ -13,7 +13,7 @@ DESTINATION: The path in your dropbox account where the file is to be uploaded.
 
 For example, if you want to store your file with the name ```foo.txt```, the DESTINATION will be ```/foo.txt```.
 
-Also, if you pass the DESTINATION as ```/dir_name/foo.txt```, the API will create a new directory with the name ```dir_name``` in your dropbox and copy your file with the name foo.txt inside that directory.
+Also, if you pass the DESTINATION as ```/dir_name/foo.txt```, the API will create a new directory with the name ```dir_name``` in your dropbox and copy your file with the name ```foo.txt``` inside that directory.
 
 To contribute:
 
