@@ -4,6 +4,7 @@ Upload files on Dropbox from your terminal
 1. Set up an app on Dropbox - https://www.dropbox.com/developers-v1/apps
 2. Get the App Key and Secret.
 3. Install the Dropbox Python API using: ``` pip install dropbox ```
+4. Install Selenium for Python: ```pip install -U selenium```
 
 Usage: ``` python dropbox_uploader.py FILEPATH DESTINATION ```
 
